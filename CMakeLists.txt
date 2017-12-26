@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.9)
+project(sum-to-n C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_executable(sum-to-n sum-to-n.c)
+add_executable(triangle-sides triangle-sides.c)

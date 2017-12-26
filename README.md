@@ -1,2 +1,3 @@
-# c-exercises
-A list of C exercises for Programming course at SSRI Crema
+# C Exercises
+
+A list of C exercises for a Programming course that I'm attending at [SSRI Crema](http://sicurezzaonline.di.unimi.it/).
