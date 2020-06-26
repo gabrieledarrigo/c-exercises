@@ -13,7 +13,6 @@ int power(int number, int exponent) {
     return result;
 }
 
-
 int main() {
     int i = 0;
     int base;
@@ -43,5 +42,4 @@ int main() {
     for (int k = 0; k < exponent; k++) {
         printf("%i to the power of %i is\t %i\n", base, k, data[k]);    
     }
-
 }

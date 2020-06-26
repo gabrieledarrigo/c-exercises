@@ -20,16 +20,14 @@ int main() {
 
     for (int i = 0; i < rows; i++) {
         for (int j = 0; j < columns; j++) {
-            //printf(" %i ", m[i][j]);
+            printf(" %i ", m[i][j]);
 
             if (i == j) {
                 printf(" %i ", m[i][j]);
             }
-
-
         }
 
-        // printf("\n");
+        printf("\n");
     }
 
     printf("\n");
